@@ -1,4 +1,4 @@
-# Rest Booker
+# API Booker
 Tests for testing the booking site API.
 The project uses:
 - Java 11
